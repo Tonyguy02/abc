@@ -9,7 +9,7 @@ import BackgroundImage2 from '../statics/2.JPG'
 import BackgroundImage3 from '../statics/4.JPG'
 
 const Home = () => {
-  const [services, setService] = useState(data);
+  const [services] = useState(data);
 
   return (
     <div>
