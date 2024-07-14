@@ -23,7 +23,7 @@ function App() {
           <Route path='/gallery' element={<Gallery />} />
           <Route path='/contact' element={<Contact />} />
         </Routes>
-        <FloatingWhatsApp  phoneNumber='+919999030477' accountName='Tony & Guy'/>
+        <FloatingWhatsApp  phoneNumber='+919999030477' accountName='Toni & Guy'/>
         <Footer />
       </div>
     </Router>

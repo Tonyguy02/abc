@@ -33,7 +33,7 @@ const Home = () => {
           </div>
         </Carousel>
         <div className="absolute bg-purple-100 bg-opacity-50 text-black p-10 rounded-lg">
-          <h1 className="font-display text-6xl font-bold mb-4">Welcome to Tony & Guy</h1>
+          <h1 className="font-display text-6xl font-bold mb-4">Welcome to Toni & Guy</h1>
           <p className="text-lg text-center border-2 border-purple-700 rounded bg-black text-white">
             THE ULTIMATE SALON EXPERIENCE
           </p>

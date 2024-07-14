@@ -24,8 +24,8 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-lg font-bold">
           <Link to="/" className="flex items-center">
-            <img src="https://img4.nbstatic.in/tr:w-500/5d9f191a590801000c382ffa.jpg" alt="Tony & Guy Logo" className="h-8 w-8 mr-2" />
-            Tony & Guy
+            <img src="https://img4.nbstatic.in/tr:w-500/5d9f191a590801000c382ffa.jpg" alt="Toni & Guy Logo" className="h-8 w-8 mr-2" />
+            Toni & Guy
           </Link>
         </div>
         <div className="hidden md:flex space-x-4 text-white">

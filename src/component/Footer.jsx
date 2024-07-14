@@ -28,7 +28,7 @@ const Footer = () => {
                 <rect x="14" y="11" width="7" height="12" />
               </svg>
               <span className="ml-2 text-xl font-bold tracking-wide text-white uppercase">
-                Tony & Guy
+                Toni & Guy
               </span>
             </a>
           </div>
@@ -84,7 +84,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col-reverse justify-center pt-5 pb-10 border-t border-gray-700 lg:flex-row">
           <p className="text-sm text-gray-400">
-            © Copyright 2024 Tony & Guy All rights reserved.
+            © Copyright 2024 Toni & Guy All rights reserved.
           </p>
         </div>
       </div>
