@@ -22,7 +22,7 @@ const About = () => {
         <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0">
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
           <p className="text-gray-700 mb-4 text-lg">
-            Toni & Guy Salon is a premier destination for exceptional hair care and beauty services. Known for its professional staff and stylish ambiance, Toni & Guy Salon offers a wide range of services including haircuts, styling, coloring, and treatments, as well as skincare and makeup services. The salon is dedicated to providing personalized experiences, ensuring that every client leaves feeling refreshed and looking their best. With a focus on the latest trends and techniques, Toni & Guy Salon stands out as a leader in the beauty industry.
+            Toni & Guy Dwarka is a premier destination for exceptional hair care and beauty services. Known for its professional staff and stylish ambiance, Toni & Guy Salon offers a wide range of services including haircuts, styling, coloring, and treatments, as well as skincare and makeup services. The salon is dedicated to providing personalized experiences, ensuring that every client leaves feeling refreshed and looking their best. With a focus on the latest trends and techniques, Toni & Guy Salon stands out as a leader in the beauty industry.
           </p>
         </div>
       </div>

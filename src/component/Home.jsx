@@ -39,7 +39,7 @@ const Home = () => {
           </p>
           <div className='flex justify-center space-x-4 gap-6 py-3 '>
             <button className='bg-white hover:bg-black hover:text-white text-black font-semibold py-3 px-6 border-2 border-purple-400 rounded shadow'>
-              <Link to='/services/men'>OUR SERVICES</Link>
+              <Link to='/serviceMain'>OUR SERVICES</Link>
             </button>
             <button className='bg-white hover:bg-black hover:text-white text-black font-semibold py-2 px-4 border-2 border-purple-400 rounded shadow'>
               <Link to='/contact'>CONTACT US</Link>

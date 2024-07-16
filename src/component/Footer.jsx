@@ -28,7 +28,8 @@ const Footer = () => {
                 <rect x="14" y="11" width="7" height="12" />
               </svg>
               <span className="ml-2 text-xl font-bold tracking-wide text-white uppercase">
-                Toni & Guy
+                <h1>Toni & Guy Dwarka</h1>
+                <h3 className='code ml-2 text-sm font-thin'>The ultimate salon experience</h3>
               </span>
             </a>
           </div>
@@ -55,7 +56,7 @@ const Footer = () => {
                 title="Our email"
                 className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
               >
-                toniguyluxurysalon@gmail.com
+                toniandguydwarka@gmail.com
               </a>
             </div>
             <div className="flex">
