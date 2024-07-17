@@ -130,7 +130,7 @@ export const services = [
     {
       "id": 23,
       "type": 1,
-      "name": "Relaxation Spas",
+      "name": "Relaxation Spa",
       "description": "Relaxation spas offer serene environments for rejuvenation, featuring soothing treatments, massages, and wellness therapies to restore balance and tranquility.",
       "image": "/static/rs.jpg"
     },
