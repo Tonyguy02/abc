@@ -25,14 +25,14 @@ export const services = [
     "type": 2,
     "name": "Facial & Cleanup",
     "description": "Experience rejuvenation with our facial and cleanup services, designed to cleanse, hydrate, and refresh your skin for a radiant glow.",
-    "image": "/static/facialcleanup.jpeg"
+    "image": "/static/ttt.jpeg"
   },
   {
     "id": 5,
     "type": 2,
     "name": "Bleach & D-Tan",
     "description": "Revitalize your skin with our Bleach & D-Tan treatment, removing impurities and dark spots for a glowing, even complexion.",
-    "image": "/static/facialcleanupMen.jpg"
+    "image": "/static/bbt.jpg"
   },
   {
     "id": 6,
@@ -82,7 +82,7 @@ export const services = [
       "type": 1,
       "name": "Hair Dyeing",
       "description": "Transform your look with vibrant hair dyeing services, offering customized colors and techniques to enhance your natural beauty and style.",
-      "image": "/static/Hairdying.jpg"
+      "image": "/static/Hd.jpg"
     },
     {
       "id": 16,
@@ -103,14 +103,14 @@ export const services = [
       "type": 1,
       "name": "Bleach & D-Tan",
       "description": "Our Bleach & D-Tan service brightens skin, removes tan, and evens out tone, leaving you with a radiant, glowing complexion.",
-      "image": "/static/bleachMen.jpg"
+      "image": "/static/bbMen.jpg"
     },
     {
       "id": 19,
       "type": 1,
       "name": "Body Polishing and Manicure",
       "description": "Experience rejuvenation with our body polishing treatment for silky skin, complemented by a relaxing manicure for beautifully shaped and polished nails.",
-      "image": "/static/nailMen.jpg"
+      "image": "/static/bbc.jpg"
     },
     {
       "id": 20,
@@ -125,14 +125,14 @@ export const services = [
       "type": 1,
       "name": "Threading",
       "description": "Threading is a precise hair removal technique using a twisted thread to gently remove unwanted facial hair, ensuring clean and defined lines.",
-      "image": "/static/threadingMen.jpg"
+      "image": "/static/th.jpg"
     },
     {
       "id": 23,
       "type": 1,
       "name": "Relaxation Spas",
       "description": "Relaxation spas offer serene environments for rejuvenation, featuring soothing treatments, massages, and wellness therapies to restore balance and tranquility.",
-      "image": "/static/HeadMen.jpg"
+      "image": "/static/rs.jpg"
     },
     {
       "id":24,
@@ -153,13 +153,13 @@ export const services = [
       "type": 2,
       "name": "Keratine",
       "description": "Keratin treatment smooths and strengthens hair, reducing frizz and enhancing shine for a sleek, manageable look that lasts for weeks.",
-      "image": "/static/krine.jpg"
+      "image": "/static/kre.jpg"
     },
     {
       "id": 27,
       "type": 2,
       "name": "Hair colour",
       "description": "Transform your look with vibrant hair color at Toni & Guy Women Salon, where expert stylists create stunning, personalized results just for you.",
-      "image": "/static/Hairdying.jpg"
+      "image": "/static/hc.jpg"
     },
 ]
