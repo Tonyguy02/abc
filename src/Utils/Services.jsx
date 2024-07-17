@@ -32,7 +32,7 @@ export const services = [
     "type": 2,
     "name": "Bleach & D-Tan",
     "description": "Revitalize your skin with our Bleach & D-Tan treatment, removing impurities and dark spots for a glowing, even complexion.",
-    "image": "/static/bleach.jpeg"
+    "image": "/static/facialcleanupMen.jpg"
   },
   {
     "id": 6,
@@ -46,7 +46,7 @@ export const services = [
     "type": 2,
     "name": "Waxing",
     "description": "Experience smooth, flawless skin with our professional waxing services, designed for lasting results and comfort, leaving you feeling confident and rejuvenated.",
-    "image": "/static/facialcleanup.jpeg"
+    "image": "/static/waxing.jpg"
   },
   {
     "id": 8,
@@ -82,7 +82,7 @@ export const services = [
       "type": 1,
       "name": "Hair Dyeing",
       "description": "Transform your look with vibrant hair dyeing services, offering customized colors and techniques to enhance your natural beauty and style.",
-      "image": "/static/beardMen.jpg"
+      "image": "/static/Hairdying.jpg"
     },
     {
       "id": 16,
@@ -103,7 +103,7 @@ export const services = [
       "type": 1,
       "name": "Bleach & D-Tan",
       "description": "Our Bleach & D-Tan service brightens skin, removes tan, and evens out tone, leaving you with a radiant, glowing complexion.",
-      "image": "https://via.placeholder.com/300"
+      "image": "/static/bleachMen.jpg"
     },
     {
       "id": 19,
@@ -138,27 +138,28 @@ export const services = [
       "id":24,
       "type": 2,
       "name":"Botox",
-      "description" :"Botox is a cosmetic treatment that reduces wrinkles by temporarily relaxing facial muscles, resulting in a smoother, more youthful appearance."
+      "description" :"Botox is a cosmetic treatment that reduces wrinkles by temporarily relaxing facial muscles, resulting in a smoother, more youthful appearance.",
+      "image" : "/static/botox.jpg"
     },
     {
       "id": 25,
       "type": 2,
       "name": "Nanoplastia",
       "description": "Nanoplastia is a cutting-edge hair treatment that deeply nourishes, straightens, and rejuvenates hair, leaving it smooth, shiny, and frizz-free.",
-      "image": "/static/HeadMen.jpg"
+      "image": "/static/nano.jpg"
     },
     {
       "id": 26,
       "type": 2,
       "name": "Keratine",
       "description": "Keratin treatment smooths and strengthens hair, reducing frizz and enhancing shine for a sleek, manageable look that lasts for weeks.",
-      "image": "/static/HeadMen.jpg"
+      "image": "/static/krine.jpg"
     },
     {
       "id": 27,
       "type": 2,
       "name": "Hair colour",
       "description": "Transform your look with vibrant hair color at Toni & Guy Women Salon, where expert stylists create stunning, personalized results just for you.",
-      "image": "/static/HeadMen.jpg"
+      "image": "/static/Hairdying.jpg"
     },
 ]
