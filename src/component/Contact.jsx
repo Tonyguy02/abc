@@ -1,4 +1,5 @@
 import React from 'react';
+import Map from '../Cards/Map';
 
 const Contact = () => {
   function handleSubmit(e) {
@@ -65,13 +66,7 @@ const Contact = () => {
 
           {/* Google Map */}
           <div className="w-full">
-            <iframe 
-              className="w-full h-64 rounded-md shadow-md" 
-              src="https://www.google.com/maps/dir//Ground+floor,+plot+no+9,+A,+near+Bikanerwala,+Block+A,+Sector+12+Dwarka,+Dwarka,+Delhi,+110075/@28.5966015,76.9594564,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390d1b8baa0eafc3:0xaf157af2513485b!2m2!1d77.0418578!2d28.5966264?entry=ttu" 
-              allowFullScreen="" 
-              loading="lazy"
-              title="Google Map"
-            ></iframe>
+            <Map />
           </div>
           
         </div>
