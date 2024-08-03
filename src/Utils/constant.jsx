@@ -9,7 +9,7 @@ export const data = [
       "id": 2,
       "name": "Men Services",
       "description": "At Toni & Guy Dwarka, our Men Services Salon offers an unparalleled grooming experience tailored specifically for men. From precision haircuts to revitalizing facials, our expert stylists and barbers use the latest techniques and premium products to ensure you look and feel your best. Our services include beard sculpting, hot towel shaves, and relaxing head massages, all designed to provide a luxurious and personalized touch. Whether you're preparing for a special occasion or simply seeking a fresh look, our dedicated team is here to deliver exceptional service in a comfortable and stylish environment.",
-      "image_link": "/static/main-m.jpg"
+      "image_link": "/static/sm.jpg"
     },
   ];
   

@@ -21,6 +21,20 @@ export const services = [
     "image": "/static/HairCare.jpeg"
   },
   {
+    "id": 26,
+    "type": 2,
+    "name": "Hair Botox, Hair Nanoplastia and Keratine",
+    "description": "Hair treatment revitalizes and nourishes hair, addressing damage, enhancing texture, and promoting health for lustrous, manageable locks like Hair Botox, Hair Nanoplastia and Keratine.",
+    "image": "/static/kre.jpg"
+  },
+  {
+    "id": 27,
+    "type": 2,
+    "name": "Hair colour/ Hair Heighlight",
+    "description": "Transform your look with vibrant hair color at Toni & Guy Women Salon, where expert stylists create stunning, personalized results just for you.",
+    "image": "/static/hc.jpg"
+  },
+  {
     "id": 4,
     "type": 2,
     "name": "Facial & Cleanup",
@@ -66,7 +80,7 @@ export const services = [
   {
     "id": 11,
     "type": 2,
-    "name": "Bridal Makeup",
+    "name": "Bridal and Party Makeup",
     "description": "Our bridal makeup service creates stunning, personalized looks that enhance your natural beauty, ensuring you feel radiant on your special day.",
     "image": "/static/bridal.jpg"
   },
@@ -75,14 +89,14 @@ export const services = [
       "type": 1,
       "name": "Haircuts and Styling",
       "description": "Experience precision haircuts and creative styling at Toni & Guy, tailored to enhance your unique look and boost your confidence.",
-      "image": "/static/HairMen.jpg"
+      "image": "/static/Hcs.jpg"
     },
     {
       "id": 15,
       "type": 1,
-      "name": "Hair Dyeing",
+      "name": "Hair colour/ Hair Heighlight",
       "description": "Transform your look with vibrant hair dyeing services, offering customized colors and techniques to enhance your natural beauty and style.",
-      "image": "/static/Hd.jpg"
+      "image": "/static/hd.jpg"
     },
     {
       "id": 16,
@@ -96,7 +110,7 @@ export const services = [
       "type": 1,
       "name": "Facial & Cleanup",
       "description": "Revitalize your skin with our facial and cleanup services, removing impurities and promoting a radiant, fresh complexion for all skin types.",
-      "image": "/static/facialcleanupMen.jpg"
+      "image": "/static/fac.jpg"
     },
     {
       "id": 18,
@@ -108,9 +122,9 @@ export const services = [
     {
       "id": 19,
       "type": 1,
-      "name": "Body Polishing and Manicure",
+      "name": "Manicure and Pedicure ",
       "description": "Experience rejuvenation with our body polishing treatment for silky skin, complemented by a relaxing manicure for beautifully shaped and polished nails.",
-      "image": "/static/bbc.jpg"
+      "image": "/static/pmm.jpg"
     },
     {
       "id": 20,
@@ -130,36 +144,15 @@ export const services = [
     {
       "id": 23,
       "type": 1,
-      "name": "Relaxation Spa",
+      "name": "Body Polishing & Relaxation Spa",
       "description": "Relaxation spas offer serene environments for rejuvenation, featuring soothing treatments, massages, and wellness therapies to restore balance and tranquility.",
       "image": "/static/rs.jpg"
     },
     {
       "id":24,
-      "type": 2,
-      "name":"Botox",
-      "description" :"Botox is a cosmetic treatment that reduces wrinkles by temporarily relaxing facial muscles, resulting in a smoother, more youthful appearance.",
-      "image" : "/static/botox.jpg"
-    },
-    {
-      "id": 25,
-      "type": 2,
-      "name": "Nanoplastia",
-      "description": "Nanoplastia is a cutting-edge hair treatment that deeply nourishes, straightens, and rejuvenates hair, leaving it smooth, shiny, and frizz-free.",
-      "image": "/static/nano.jpg"
-    },
-    {
-      "id": 26,
-      "type": 2,
-      "name": "Keratine",
-      "description": "Keratin treatment smooths and strengthens hair, reducing frizz and enhancing shine for a sleek, manageable look that lasts for weeks.",
-      "image": "/static/kre.jpg"
-    },
-    {
-      "id": 27,
-      "type": 2,
-      "name": "Hair colour",
-      "description": "Transform your look with vibrant hair color at Toni & Guy Women Salon, where expert stylists create stunning, personalized results just for you.",
-      "image": "/static/hc.jpg"
-    },
+      "type":2,
+      "name":"Nail Art",
+      "description":"Nail art composition may include many fashionable features and techniques, such as traditional French manicure and a special nail design.  ",
+      "image":"/static/na.jpg"
+    }
 ]

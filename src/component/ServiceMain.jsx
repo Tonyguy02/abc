@@ -10,7 +10,7 @@ const ServicesMain = () => {
       {/* Men Services Card */}
       <div className="w-full bg-red-50 hover:bg-zinc-200 rounded-lg shadow-md flex flex-col md:flex-row overflow-hidden">
         <img 
-          src="/static/mainmen.jpg" 
+          src="/static/sm.jpg" 
           alt="Men Services" 
           className="w-full md:w-1/2 object-cover"
         />
@@ -26,7 +26,7 @@ const ServicesMain = () => {
       {/* Women Services Card */}
       <div className="w-full bg-red-50 hover:bg-zinc-200 rounded-lg shadow-md flex flex-col md:flex-row overflow-hidden">
       <img 
-          src="/static/maingirl.jpg" 
+          src="/static/wm.jpg" 
           alt="Women Services" 
           className="w-full md:w-1/2 object-cover"
         />
