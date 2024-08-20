@@ -13,7 +13,7 @@ const About = () => {
         <div className="w-full md:w-1/2 flex justify-center">
           <iframe
             className="rounded-lg shadow-lg w-full h-64 md:h-96 md:max-w-lg"
-            src="https://drive.google.com/file/d/1r72c_COygTKqYdvBDc9M1U0DXZdN2_eI/preview"
+            src="https://drive.google.com/file/d/1tzO_pReiCVK4Rgdigv5CLKYWOAXEEchN/preview"
             title="Toni & Guy Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

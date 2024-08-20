@@ -18,7 +18,7 @@ export const services = [
     "type": 2,
     "name": "Hair Care",
     "description": "Our hair care services include nourishing treatments, deep conditioning, and scalp therapy, ensuring your hair stays healthy, vibrant, and beautiful.",
-    "image": "/static/HairCare.jpeg"
+    "image": "/static/hca.jpg"
   },
   {
     "id": 26,
@@ -30,7 +30,7 @@ export const services = [
   {
     "id": 27,
     "type": 2,
-    "name": "Hair colour/ Hair Heighlight",
+    "name": "Hair colour",
     "description": "Transform your look with vibrant hair color at Toni & Guy Women Salon, where expert stylists create stunning, personalized results just for you.",
     "image": "/static/hc.jpg"
   },
@@ -46,7 +46,7 @@ export const services = [
     "type": 2,
     "name": "Bleach & D-Tan",
     "description": "Revitalize your skin with our Bleach & D-Tan treatment, removing impurities and dark spots for a glowing, even complexion.",
-    "image": "/static/bbt.jpg"
+    "image": "/static/bt.jpg"
   },
   {
     "id": 6,
@@ -94,7 +94,7 @@ export const services = [
     {
       "id": 15,
       "type": 1,
-      "name": "Hair colour/ Hair Heighlight",
+      "name": "Hair colour",
       "description": "Transform your look with vibrant hair dyeing services, offering customized colors and techniques to enhance your natural beauty and style.",
       "image": "/static/hd.jpg"
     },
@@ -131,7 +131,7 @@ export const services = [
       "type": 1,
       "name": "Body Waxing",
       "description": "Experience smooth, long-lasting results with our professional body waxing services, designed for comfort and precision, leaving your skin soft and radiant.",
-      "image": "/static/bodyWaxMen.jpg"
+      "image": "/static/mwax.jpg"
     },
     
     {

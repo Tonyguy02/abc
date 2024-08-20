@@ -3,7 +3,7 @@ export const data = [
       "id": 1,
       "name": "Women Services",
       "description": "At Toni & Guy Dwarka, we specialize in providing an exquisite range of women's salon services designed to cater to all your beauty needs. Our expert stylists are dedicated to delivering personalized services, including haircuts, coloring, styling, and treatments, as well as professional skincare, makeup, and nail services. Whether you're looking for a fresh new look or a relaxing pampering session, our team ensures you leave feeling rejuvenated and confident.",
-      "image_link": "/static/haircare.jpeg"
+      "image_link": "/static/wm.jpg"
     },
     {
       "id": 2,
