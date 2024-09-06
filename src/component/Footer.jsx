@@ -69,7 +69,7 @@ const Footer = () => {
                 title="Our address"
                 className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
               >
-                Ground Floor Plot no .9 Sector 12A Dwarka, 110075
+                Ground Floor Plot no .9, Near Bikanervala, Sector 12A Dwarka, 110075
               </a>
             </div>
           </div>

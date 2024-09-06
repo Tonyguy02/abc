@@ -4,8 +4,10 @@ import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import Card from '../Cards/Card';
 import { data } from "../Utils/constant";
-import BackgroundImage1 from '../statics/4.JPG'
-import BackgroundImage2 from '../statics/2.JPG'
+import BackgroundImage1 from '../statics/2.JPG'
+import BackgroundImage2 from '../statics/6.JPG'
+import BackgroundImage3 from '../statics/1.JPG'
+
 
 const Home = () => {
   const [services] = useState(data);
@@ -22,10 +24,13 @@ const Home = () => {
           className="absolute top-0 left-0 w-full h-full"
         >
           <div>
-            <img src={BackgroundImage1} alt="Background 1" className="object-cover h-screen w-full" />
+            <img src={BackgroundImage3} alt="Background 1" className="object-cover h-screen w-full" />
           </div>
           <div>
             <img src={BackgroundImage2} alt="Background 2" className="object-cover h-screen w-full" />
+          </div>
+          <div>
+            <img src={BackgroundImage1} alt="Background 3" className="object-cover h-screen w-full" />
           </div>
         </Carousel>
         <div className="absolute bg-purple-100 bg-opacity-50 text-black p-10 rounded-lg">
